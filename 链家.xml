@@ -1,0 +1,453 @@
+<?xml version="1.0" ?>
+<Itemlist>
+	<item>
+		<totalPrice>148</totalPrice>
+		<area> 62.93平米 </area>
+		<utilPrice>23519元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 77.38平米 </area>
+		<utilPrice>18093元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>147</totalPrice>
+		<area> 65.34平米 </area>
+		<utilPrice>22498元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>147</totalPrice>
+		<area> 77.76平米 </area>
+		<utilPrice>18905元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 71.24平米 </area>
+		<utilPrice>18951元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 64平米 </area>
+		<utilPrice>22657元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 63.16平米 </area>
+		<utilPrice>21375元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>119</totalPrice>
+		<area> 68.8平米 </area>
+		<utilPrice>17297元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 79.5平米 </area>
+		<utilPrice>18239元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>128</totalPrice>
+		<area> 67.24平米 </area>
+		<utilPrice>19037元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>136</totalPrice>
+		<area> 80平米 </area>
+		<utilPrice>17000元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>117</totalPrice>
+		<area> 66平米 </area>
+		<utilPrice>17728元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>118</totalPrice>
+		<area> 78平米 </area>
+		<utilPrice>15129元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>105</totalPrice>
+		<area> 66.4平米 </area>
+		<utilPrice>15814元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>149</totalPrice>
+		<area> 77.57平米 </area>
+		<utilPrice>19209元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>122.8</totalPrice>
+		<area> 68.82平米 </area>
+		<utilPrice>17844元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>130</totalPrice>
+		<area> 75平米 </area>
+		<utilPrice>17334元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>136</totalPrice>
+		<area> 65.72平米 </area>
+		<utilPrice>20694元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>146</totalPrice>
+		<area> 61.82平米 </area>
+		<utilPrice>23617元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>108</totalPrice>
+		<area> 73.49平米 </area>
+		<utilPrice>14696元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>119</totalPrice>
+		<area> 77.28平米 </area>
+		<utilPrice>15399元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 64.69平米 </area>
+		<utilPrice>20869元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>149</totalPrice>
+		<area> 64.16平米 </area>
+		<utilPrice>23224元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 65.27平米 </area>
+		<utilPrice>21450元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 61.91平米 </area>
+		<utilPrice>22614元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>125</totalPrice>
+		<area> 67.18平米 </area>
+		<utilPrice>18607元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>120</totalPrice>
+		<area> 62.56平米 </area>
+		<utilPrice>19182元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>108</totalPrice>
+		<area> 74.01平米 </area>
+		<utilPrice>14593元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>123</totalPrice>
+		<area> 65.62平米 </area>
+		<utilPrice>18745元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>149</totalPrice>
+		<area> 61.31平米 </area>
+		<utilPrice>24303元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 68.32平米 </area>
+		<utilPrice>21224元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 64.9平米 </area>
+		<utilPrice>22343元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>146</totalPrice>
+		<area> 61.57平米 </area>
+		<utilPrice>23713元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>146</totalPrice>
+		<area> 61.2平米 </area>
+		<utilPrice>23857元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>134</totalPrice>
+		<area> 62.65平米 </area>
+		<utilPrice>21389元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>100</totalPrice>
+		<area> 65平米 </area>
+		<utilPrice>15385元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 69.46平米 </area>
+		<utilPrice>19436元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>148</totalPrice>
+		<area> 65.05平米 </area>
+		<utilPrice>22752元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>118</totalPrice>
+		<area> 80平米 </area>
+		<utilPrice>14750元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>142</totalPrice>
+		<area> 69.46平米 </area>
+		<utilPrice>20444元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>137</totalPrice>
+		<area> 60.12平米 </area>
+		<utilPrice>22788元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 75.33平米 </area>
+		<utilPrice>19249元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>133</totalPrice>
+		<area> 68.82平米 </area>
+		<utilPrice>19326元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 87平米 </area>
+		<utilPrice>15518元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>148</totalPrice>
+		<area> 68.16平米 </area>
+		<utilPrice>21714元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>143</totalPrice>
+		<area> 60.15平米 </area>
+		<utilPrice>23774元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 62.23平米 </area>
+		<utilPrice>23301元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>143</totalPrice>
+		<area> 69.46平米 </area>
+		<utilPrice>20588元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 63.79平米 </area>
+		<utilPrice>22731元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>148</totalPrice>
+		<area> 63.39平米 </area>
+		<utilPrice>23348元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 69.46平米 </area>
+		<utilPrice>20156元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>130</totalPrice>
+		<area> 64.32平米 </area>
+		<utilPrice>20212元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>146</totalPrice>
+		<area> 60.11平米 </area>
+		<utilPrice>24289元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>119</totalPrice>
+		<area> 65.67平米 </area>
+		<utilPrice>18121元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>126</totalPrice>
+		<area> 63平米 </area>
+		<utilPrice>20000元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>136</totalPrice>
+		<area> 78.03平米 </area>
+		<utilPrice>17430元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 61.96平米 </area>
+		<utilPrice>23403元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 68.32平米 </area>
+		<utilPrice>20492元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>128</totalPrice>
+		<area> 83.72平米 </area>
+		<utilPrice>15290元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>130</totalPrice>
+		<area> 64.78平米 </area>
+		<utilPrice>20068元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>125</totalPrice>
+		<area> 73.74平米 </area>
+		<utilPrice>16952元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>110</totalPrice>
+		<area> 68平米 </area>
+		<utilPrice>16177元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 60.93平米 </area>
+		<utilPrice>22978元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>148</totalPrice>
+		<area> 62.58平米 </area>
+		<utilPrice>23650元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 61.76平米 </area>
+		<utilPrice>22669元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>142</totalPrice>
+		<area> 70.84平米 </area>
+		<utilPrice>20046元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 68.42平米 </area>
+		<utilPrice>19732元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>142</totalPrice>
+		<area> 64.75平米 </area>
+		<utilPrice>21931元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>112</totalPrice>
+		<area> 63.05平米 </area>
+		<utilPrice>17764元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 67平米 </area>
+		<utilPrice>20896元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>142</totalPrice>
+		<area> 60.16平米 </area>
+		<utilPrice>23604元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>131</totalPrice>
+		<area> 75平米 </area>
+		<utilPrice>17467元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 73.57平米 </area>
+		<utilPrice>19710元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>123</totalPrice>
+		<area> 88.21平米 </area>
+		<utilPrice>13944元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>133</totalPrice>
+		<area> 61.65平米 </area>
+		<utilPrice>21574元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>146</totalPrice>
+		<area> 62.92平米 </area>
+		<utilPrice>23205元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>149</totalPrice>
+		<area> 75.68平米 </area>
+		<utilPrice>19689元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 72平米 </area>
+		<utilPrice>18750元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>140</totalPrice>
+		<area> 64平米 </area>
+		<utilPrice>21875元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>112</totalPrice>
+		<area> 81.7平米 </area>
+		<utilPrice>13709元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>126</totalPrice>
+		<area> 80.46平米 </area>
+		<utilPrice>15660元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>100</totalPrice>
+		<area> 68平米 </area>
+		<utilPrice>14706元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>128</totalPrice>
+		<area> 81.29平米 </area>
+		<utilPrice>15747元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>148</totalPrice>
+		<area> 85.42平米 </area>
+		<utilPrice>17327元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>135</totalPrice>
+		<area> 72.04平米 </area>
+		<utilPrice>18740元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>132</totalPrice>
+		<area> 67.53平米 </area>
+		<utilPrice>19547元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 65平米 </area>
+		<utilPrice>22308元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>130</totalPrice>
+		<area> 64平米 </area>
+		<utilPrice>20313元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>145</totalPrice>
+		<area> 63.64平米 </area>
+		<utilPrice>22785元/平米</utilPrice>
+	</item>
+	<item>
+		<totalPrice>143</totalPrice>
+		<area> 63.44平米 </area>
+		<utilPrice>22541元/平米</utilPrice>
+	</item>
+</Itemlist>
